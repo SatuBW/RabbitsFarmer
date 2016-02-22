@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RabbitsFarmer</string>
+    <string name="parse_app_id">4fmsPTMEBRr8ZNwKCs3GiDtuKvJwGilLNVDTi1oG</string>
+    <string name="parse_client_key">8wsuOsO7xZn7vnTNIM0r7d7iCZDcqzEq3x6eElgz</string>
+    <string name="warning">Wypełnij wszystkie pola!</string>
+    <string name="facebook_app_id">961357297279959</string>
+</resources>

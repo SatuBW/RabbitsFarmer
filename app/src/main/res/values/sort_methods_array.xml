@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort_methods_array">
+        <item>pusty</item>
+        <item>Sortowanie po imieniu</item>
+        <item>Sortowanie po dacie urodzenia</item>
+    </string-array>
+</resources>
